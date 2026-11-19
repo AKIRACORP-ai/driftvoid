@@ -1,0 +1,8 @@
+# driftvoid upload
+
+> Outil personnel en ligne de commande du propriétaire de la chaîne YouTube driftvoid. Il utilise les Services API YouTube uniquement pour gérer cette chaîne : mettre en ligne ses propres vidéos, modifier titre, description et tags, lire les statistiques, lire les commentaires et y répondre. Non vendu, non distribué, sans publicité ni cookies. Mis à jour le 19/11/2026.
+
+- [Accueil](https://akiracorp-ai.github.io/driftvoid/) : présentation de l'outil
+- [Règles de confidentialité](https://akiracorp-ai.github.io/driftvoid/confidentialite.html) : données consultées, stockage local du jeton, aucun partage, retrait de l'accès
+- [Conditions d'utilisation](https://akiracorp-ai.github.io/driftvoid/conditions.html) : renvoi aux Conditions d'utilisation de YouTube
+- Contact : rafikhpro92@gmail.com
